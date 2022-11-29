@@ -1,0 +1,24 @@
+section {
+  margin: 1rem auto;
+  width: 90%;
+  max-width: 40rem;
+  text-align: center;
+  background-color: white;
+  padding: 2rem;
+  border-radius: 12px;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+  background: #a5960f;
+  border: 1px solid #a5960f;
+  color: white;
+  padding: 0.75rem 2rem;
+  border-radius: 20px;
+}
+
+button:active {
+  background-color: #a5960f;
+  border-color: #a5960f;
+}
